@@ -16,7 +16,7 @@
 
         <div class="row gy-4">
             <div class="col-xxl-3 col-sm-6">
-                <a href="https://script.viserlab.com/betlab/admin/users">
+                <a href="admin/users">
                     <div class="widget-seven bg--primary ">
                         <div class="widget-seven__content">
                             <span class="widget-seven__content-icon">
@@ -37,7 +37,7 @@
                 </a>
             </div>
             <div class="col-xxl-3 col-sm-6">
-                <a href="https://script.viserlab.com/betlab/admin/users/active">
+                <a href="admin/users/active">
                     <div class="widget-seven bg--success ">
                         <div class="widget-seven__content">
                             <span class="widget-seven__content-icon">
@@ -58,7 +58,7 @@
                 </a>
             </div>
             <div class="col-xxl-3 col-sm-6">
-                <a href="https://script.viserlab.com/betlab/admin/users/email-unverified">
+                <a href="admin/users/email-unverified">
                     <div class="widget-seven bg--danger ">
                         <div class="widget-seven__content">
                             <span class="widget-seven__content-icon">
@@ -79,7 +79,7 @@
                 </a>
             </div>
             <div class="col-xxl-3 col-sm-6">
-                <a href="https://script.viserlab.com/betlab/admin/users/mobile-unverified">
+                <a href="admin/users/mobile-unverified">
                     <div class="widget-seven bg--warning ">
                         <div class="widget-seven__content">
                             <span class="widget-seven__content-icon">
@@ -109,7 +109,7 @@
                         <div class="widget-card-wrapper">
 
                             <div class="widget-card bg--success">
-                                <a href="https://script.viserlab.com/betlab/admin/deposit/all" class="widget-card-link"></a>
+                                <a href="admin/deposit/all" class="widget-card-link"></a>
                                 <div class="widget-card-left">
                                     <div class="widget-card-icon">
                                         <i class="fas fa-hand-holding-usd"></i>
@@ -125,7 +125,7 @@
                             </div>
 
                             <div class="widget-card bg--warning">
-                                <a href="https://script.viserlab.com/betlab/admin/deposit/pending"
+                                <a href="admin/deposit/pending"
                                     class="widget-card-link"></a>
                                 <div class="widget-card-left">
                                     <div class="widget-card-icon">
@@ -142,7 +142,7 @@
                             </div>
 
                             <div class="widget-card bg--danger">
-                                <a href="https://script.viserlab.com/betlab/admin/deposit/rejected"
+                                <a href="admin/deposit/rejected"
                                     class="widget-card-link"></a>
                                 <div class="widget-card-left">
                                     <div class="widget-card-icon">
@@ -159,7 +159,7 @@
                             </div>
 
                             <div class="widget-card bg--primary">
-                                <a href="https://script.viserlab.com/betlab/admin/deposit/all" class="widget-card-link"></a>
+                                <a href="admin/deposit/all" class="widget-card-link"></a>
                                 <div class="widget-card-left">
                                     <div class="widget-card-icon">
                                         <i class="fas fa-percentage"></i>
@@ -184,7 +184,7 @@
                         <h5 class="card-title">Withdrawals</h5>
                         <div class="widget-card-wrapper">
                             <div class="widget-card bg--success">
-                                <a href="https://script.viserlab.com/betlab/admin/withdraw/all"
+                                <a href="admin/withdraw/all"
                                     class="widget-card-link"></a>
                                 <div class="widget-card-left">
                                     <div class="widget-card-icon">
@@ -201,7 +201,7 @@
                             </div>
 
                             <div class="widget-card bg--warning">
-                                <a href="https://script.viserlab.com/betlab/admin/withdraw/pending"
+                                <a href="admin/withdraw/pending"
                                     class="widget-card-link"></a>
                                 <div class="widget-card-left">
                                     <div class="widget-card-icon">
@@ -218,7 +218,7 @@
                             </div>
 
                             <div class="widget-card bg--danger">
-                                <a href="https://script.viserlab.com/betlab/admin/withdraw/rejected"
+                                <a href="admin/withdraw/rejected"
                                     class="widget-card-link"></a>
                                 <div class="widget-card-left">
                                     <div class="widget-card-icon">
@@ -235,7 +235,7 @@
                             </div>
 
                             <div class="widget-card bg--primary">
-                                <a href="https://script.viserlab.com/betlab/admin/withdraw/all"
+                                <a href="admin/withdraw/all"
                                     class="widget-card-link"></a>
                                 <div class="widget-card-left">
                                     <div class="widget-card-icon">
@@ -258,7 +258,7 @@
 
         <div class="row gy-4 mt-2">
             <div class="col-xxl-3 col-sm-6">
-                <a href="https://script.viserlab.com/betlab/admin/bet/pending">
+                <a href="admin/bet/pending">
                     <div class="widget-seven bg--warning  outline ">
                         <div class="widget-seven__content">
                             <span class="widget-seven__content-icon">
@@ -279,7 +279,7 @@
                 </a>
             </div>
             <div class="col-xxl-3 col-sm-6">
-                <a href="https://script.viserlab.com/betlab/admin/deposit/pending">
+                <a href="admin/deposit/pending">
                     <div class="widget-seven bg--amber  outline ">
                         <div class="widget-seven__content">
                             <span class="widget-seven__content-icon">
@@ -300,7 +300,7 @@
                 </a>
             </div>
             <div class="col-xxl-3 col-sm-6">
-                <a href="https://script.viserlab.com/betlab/admin/withdraw/pending">
+                <a href="admin/withdraw/pending">
                     <div class="widget-seven bg--orange  outline ">
                         <div class="widget-seven__content">
                             <span class="widget-seven__content-icon">
@@ -321,7 +321,7 @@
                 </a>
             </div>
             <div class="col-xxl-3 col-sm-6">
-                <a href="https://script.viserlab.com/betlab/admin/ticket/pending">
+                <a href="admin/ticket/pending">
                     <div class="widget-seven bg--primary  outline ">
                         <div class="widget-seven__content">
                             <span class="widget-seven__content-icon">
@@ -431,17 +431,17 @@
                             </div>
                             <div class="input-group">
                                 <input type="text" class="form-control form-control-lg" id="cronPath"
-                                    value="curl -s https://script.viserlab.com/betlab/cron" readonly>
+                                    value="curl -s cron" readonly>
                                 <button type="button"
                                     class="input-group-text copy-text-btn copyCronPath text--primary"><i
                                         class="fas fa-copy"></i> <span class="copyText text--primary">Copy</span></button>
                             </div>
                         </div>
                         <div class="justify-content-between cron-btn-group d-flex gap-2">
-                            <a href="https://script.viserlab.com/betlab/admin/cron/index"
+                            <a href="admin/cron/index"
                                 class="btn btn-outline--primary  w-100 h-45"><i class="fas fa-cog"></i>
                                 Cron Job Setting</button>
-                                <a href="https://script.viserlab.com/betlab/cron?target=all"
+                                <a href="cron?target=all"
                                     class="btn btn-outline--warning w-100 h-45"><i class="fas fa-bolt"></i> Run
                                     Manually</a>
                         </div>
