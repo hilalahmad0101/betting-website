@@ -394,18 +394,12 @@
             });
         }
 
-        if (notifications.length) {
-            notifications.forEach(element => {
-                triggerToaster(element[0], element[1]);
-            });
-        }
-
-        if (errors.length) {
-            errors.forEach(error => {
-                triggerToaster('error', error);
-            });
-        }
-
+        @if (session()->has('success'))
+            triggerToaster('success', "{{ session('success') }}");
+        @endif
+        @if (session()->has('error'))
+            triggerToaster('error', "{{ session('error') }}");
+        @endif
         function notify(status, message) {
             if (typeof message == 'string') {
                 triggerToaster(status, message);
